@@ -5,7 +5,6 @@
 #include "imgui/backends/imgui_impl_glfw.h"
 #include "imgui/backends/imgui_impl_opengl3.h"
 #include <string>
-// #include <expat_external.h>
 #include <exprtk.hpp>
 
 void setup() {
